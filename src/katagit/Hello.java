@@ -2,8 +2,8 @@ package katagit;
 
 public class Hello {
     
-    public hello() {
-        
+    public int hello() {
+        return 0;
     }
     
 }
